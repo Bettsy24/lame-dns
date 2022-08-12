@@ -1,6 +1,6 @@
-# Lame DNS
+# Broken DNS
 
-Lame delegation checking at scale!
+Broken Delegation (Also known as Lame delegation) checking at scale!
 
 ## Building
 
